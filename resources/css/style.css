@@ -40,4 +40,29 @@ nav span {
   padding-left: 10px;
 }
 
+/*Main Content Container*/
+
+.content {
+  display: flex;
+  padding-top: 70px;
+  padding-left: 50px;
+  padding-right: 50px;
+  justify-content: center;
+  text-align: center;
+}
+
 /* Our Mission Styles */
+
+.mission-container {
+  display: flex;
+  width: 1200px;
+  height: 700px;
+  flex-direction: column;
+  justify-content: center;
+  background-image: url("/Users/Annette/teacozy/resources/images/img-mission-background.jpg");
+}
+
+.image-content {
+  align-content: center;
+  background-color: black;
+}
