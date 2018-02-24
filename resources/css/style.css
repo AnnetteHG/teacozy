@@ -113,3 +113,14 @@ img {
   opacity: 1;
   margin: 15px 20px;
 }
+
+.footer {
+  display: inline;
+  justify-content: center;
+  text-align: center;
+  height: 200px;
+}
+
+.copyright {
+  margin-left: 20px;
+}
